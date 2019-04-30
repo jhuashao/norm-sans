@@ -7,3 +7,15 @@ The two styles informed each other's visual look and feel as they were being cra
 
 Similarly in which Space Mono by Colophon was constructed, Norm embraces the constraints of monospace typefaces, and forms its personality with nods towards contemporary, Helvetic, and geometric type design practices. 
 
+Current font styles for Norm Sans:
+
+| Name                 | Weight class
+| -------------------- | ----------------
+| Thin                 | 100
+| Extra Light          | 200
+| Light                | 300
+| Regular              | 400
+| Medium               | 500
+| Semi Bold            | 600
+| Bold                 | 700
+
