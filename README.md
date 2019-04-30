@@ -1,6 +1,6 @@
 # Norm
 
-[![Sample](docs/res/1.jpg)]()
+[![Sample](imgs/1.jpg)]()
 
 
 Norm is a contemporary neo-grotesque sans-serif type family that blends monospace aesthetics with swiss-styled, geometric accents. 
