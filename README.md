@@ -1,4 +1,8 @@
 # Norm
+
+[![Sample](docs/res/1.jpg)]()
+
+
 Norm is a contemporary neo-grotesque sans-serif type family that blends monospace aesthetics with swiss-styled, geometric accents. 
 
 Norm is divided into two styles: Norm Sans and Norm Mono.
