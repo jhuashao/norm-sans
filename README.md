@@ -18,7 +18,7 @@ Norm Sans is ready to use right out of the box and works particularly well in di
 
 # Download Norm Sans
 
-## Font Files
+### Font Files
 
 All Font Formats:
 
@@ -32,7 +32,7 @@ Download only the OpenType(OTF) files of Norm Sans
 
 Download only the Web Open Font Format(WOFF) files of Norm Sans
 
-## Source Files `.glyphs`
+### Source Files `.glyphs`
 
 Download only Norm Sans source files `.glyphs`
 
