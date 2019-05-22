@@ -2,8 +2,6 @@
 
 ![Norm](images/1.jpg)
 
-### About
-
 Norm is a contemporary sans-serif type family that blends monospace functionality with modernist geometric accents. The spirit of this typeface is an attempt to create a bridge between computational and humanist traditions.
 
 Norm was created as a balancing act between monospace and neo-grotesque typefaces, and blends design features from both type cultures.
