@@ -48,13 +48,6 @@ If you are new to type design and it's practices, please refer below to **Type D
 
 If you require any more assistance at all, please don't hesitate to open up and [ISSUE](https://github.com/jhuashao/norm-typeface/issues) in this repository, or send a direct message to the repository's owner @Joshua Shao
 
-[typeface](https://github.com/topics/typeface)
-
-[font](https://github.com/topics/font)
-
-[font-family](https://github.com/topics/font-family)
-
-[typography](https://github.com/topics/typography)
 
 # Modifying & Distributing
 
