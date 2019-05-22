@@ -16,15 +16,13 @@ Norm was created as a balancing act between monospace and neo-grotesque typeface
 
 ### Open Source
 
-Norm Sans is ready to use right out of the box and works particularly well in display sizes, but can hold its own when set in body text. Modification, re-distribution, and commercial usage is made possible under the SIL Open Font License, Version 1.1.
+Norm Sans is ready to use right out of the box and works particularly well in display sizes, but can hold its own when set in body text. Modification, re-distribution, and commercial usage is made possible under the [SIL Open Font License, Version 1.1](https://opensource.org/licenses/OFL-1.1).
 
 ## Download Norm Sans
 
 ### Font Files
 
-All Font Formats:
-
-Download Norm Sans
+[All Font Formats - Download Norm Sans]
 
 Individual Font File Formats([?](https://creativemarket.com/blog/the-missing-guide-to-font-formats)):
 
