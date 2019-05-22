@@ -16,7 +16,7 @@ Norm was created as a balancing act between monospace and neo-grotesque typeface
 
 Norm Sans is ready to use right out of the box and works particularly well in display sizes, but can hold its own when set in body text. Modification, re-distribution, and commercial usage is made possible under the SIL Open Font License, Version 1.1.
 
-# Download Norm Sans
+## Download Norm Sans
 
 ### Font Files
 
@@ -38,7 +38,7 @@ Download only Norm Sans source files `.glyphs`
 
 Download only Norm Sans Italic source files `.glyphs`
 
-# Contributing
+## Contributing
 
 Thank you for considering contributing to Norm Sans, as an open-source typeface, it's from active contributions from the community that help drive projects like this forward. For further documentation on contributing to Norm Sans, please see CONTRIBUTING.md.
 
@@ -49,15 +49,15 @@ If you are new to type design and it's practices, please refer below to **Type D
 If you require any more assistance at all, please don't hesitate to open up and [ISSUE](https://github.com/jhuashao/norm-typeface/issues) in this repository, or send a direct message to the repository's owner @Joshua Shao
 
 
-# Modifying & Distributing
+## Modifying & Distributing
 
 As mentioned before in this README, Norm Sans is an open-source project and is free to modify, alter, and distribute. Please see the SIL Open Font License for further details and specifications.
 
 In order to start modifying Norm Sans for your personal interests 
 
-# Commercial Usage
+## Commercial Usage
 
-# More Information
+## More Information
 
 ## Type Design Resources
 
