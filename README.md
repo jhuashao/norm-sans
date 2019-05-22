@@ -6,6 +6,9 @@ Norm is a contemporary sans-serif type family that blends monospace functionalit
 
 Norm was created as a balancing act between monospace and neo-grotesque typefaces, and blends design features from both type cultures.
 
+![Norm](images/1.jpg)
+![Norm](images/2.jpg)
+
 ## Features
 
 ### Design Details
