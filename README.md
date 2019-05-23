@@ -14,6 +14,9 @@ Norm was created as a balancing act between monospace and neo-grotesque typeface
 
 ![Norm](images/2.jpg)
 
+# [Download Latest Version](https://github.com/jckfa/norm-sans/archive/master.zip)
+
+
 ### Open Source
 
 Norm Sans is ready to use right out of the box and works particularly well in display sizes, but can hold its own when set in body text. Modification, re-distribution, and commercial usage is made possible under the [SIL Open Font License, Version 1.1](https://opensource.org/licenses/OFL-1.1).
