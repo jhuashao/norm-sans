@@ -39,14 +39,6 @@ If you require any more assistance at all, please don't hesitate to open up an [
 
 ## Modifying & Distributing
 
-As mentioned before in this README, Norm Sans is an open-source project and is free to modify, alter, and distribute. Please see the SIL Open Font License for further details and specifications.
+As mentioned before in this README, Norm Sans is an open-source project and is free to modify, alter, and distribute. Please see the [SIL Open Font License, Version 1.1](https://opensource.org/licenses/OFL-1.1) for further details and specifications.
 
-In order to start modifying Norm Sans for your personal interests 
-
-## Commercial Usage
-
-## More Information
-
-## Type Design Resources
-
-## Open Source Resources
+Feel free to fork this repo and to begin to make your own personalized changes.
