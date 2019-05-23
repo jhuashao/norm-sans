@@ -26,7 +26,7 @@ Feel free to begin by forking this repo to begin making your own personalized ch
 
 ## Contributing
 
-Thank you for considering contributing to Norm Sans, as an open-source typeface, it's from active contributions from the community that help drive projects like this forward. If you are new to contributing to open-source projects, a great beginning guide to getting started is GitHub's own [Open Source Guide](https://opensource.guide/how-to-contribute/). 
+Thank you for considering contributing to Norm Sans. As an open-source typeface, it's from active contributions from the community that help drive projects like this forward. If you are new to contributing to open-source projects, a great beginning guide to getting started is GitHub's own [Open Source Guide](https://opensource.guide/how-to-contribute/). 
 
 If you require any more assistance at all, please don't hesitate to open up an [issue](https://github.com/jhuashao/norm-typeface/issues) in this repository, or send a direct message to the repository's owner [@jhuashao](https://github.com/jhuashao)
 
