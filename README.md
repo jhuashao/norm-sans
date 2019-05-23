@@ -18,7 +18,11 @@ Norm was created as a balancing act between monospace and neo-grotesque typeface
 
 Norm Sans is ready to use right out of the box and works particularly well in display sizes, but can hold its own when set in body text. Modification, re-distribution, and commercial usage is made possible under the [SIL Open Font License, Version 1.1](https://opensource.org/licenses/OFL-1.1).
 
-### [Download Latest release of Norm Sans](https://github.com/jhuashao/norm-sans/releases)
+## Modifying & Distributing
+
+As mentioned before in this README, Norm Sans is an open-source project and is free to modify, alter, and distribute. Please see the [SIL Open Font License, Version 1.1](https://opensource.org/licenses/OFL-1.1) for further details and specifications.
+
+Feel free to begin by forking this repo to begin making your own personalized changes.
 
 ## Contributing
 
@@ -27,8 +31,4 @@ Thank you for considering contributing to Norm Sans, as an open-source typeface,
 If you require any more assistance at all, please don't hesitate to open up an [issue](https://github.com/jhuashao/norm-typeface/issues) in this repository, or send a direct message to the repository's owner [@jhuashao](https://github.com/jhuashao)
 
 
-## Modifying & Distributing
 
-As mentioned before in this README, Norm Sans is an open-source project and is free to modify, alter, and distribute. Please see the [SIL Open Font License, Version 1.1](https://opensource.org/licenses/OFL-1.1) for further details and specifications.
-
-Feel free to fork this repo and to begin to make your own personalized changes.
