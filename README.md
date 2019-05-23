@@ -1,13 +1,10 @@
 # Norm
 
-### About
+![Norm](images/1.jpg)
 
 Norm is a contemporary sans-serif type family that blends monospace functionality with modernist geometric accents. The spirit of this typeface is an attempt to create a bridge between computational and humanist traditions.
 
 Norm was created as a balancing act between monospace and neo-grotesque typefaces, and blends design features from both type cultures.
-
-![Norm](images/1.jpg)
-![Norm](images/2.jpg)
 
 ## Features
 
@@ -15,17 +12,17 @@ Norm was created as a balancing act between monospace and neo-grotesque typeface
 
 7 Weights/ 14 Styles
 
+![Norm](images/2.jpg)
+
 ### Open Source
 
-Norm Sans is ready to use right out of the box and works particularly well in display sizes, but can hold its own when set in body text. Modification, re-distribution, and commercial usage is made possible under the SIL Open Font License, Version 1.1.
+Norm Sans is ready to use right out of the box and works particularly well in display sizes, but can hold its own when set in body text. Modification, re-distribution, and commercial usage is made possible under the [SIL Open Font License, Version 1.1](https://opensource.org/licenses/OFL-1.1).
 
 ## Download Norm Sans
 
 ### Font Files
 
-All Font Formats:
-
-Download Norm Sans
+### [⬇︎ Download the latest release](https://github.com/jhuashao/norm-sans/releases)
 
 Individual Font File Formats([?](https://creativemarket.com/blog/the-missing-guide-to-font-formats)):
 
