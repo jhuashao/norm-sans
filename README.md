@@ -20,12 +20,6 @@ Norm Sans is ready to use right out of the box and works particularly well in di
 
 ### [Download Latest release of Norm Sans](https://github.com/jhuashao/norm-sans/releases)
 
-### Source Files `.glyphs`
-
-Download only Norm Sans source files `.glyphs`
-
-Download only Norm Sans Italic source files `.glyphs`
-
 ## Contributing
 
 Thank you for considering contributing to Norm Sans, as an open-source typeface, it's from active contributions from the community that help drive projects like this forward. For further documentation on contributing to Norm Sans, please see CONTRIBUTING.md.
