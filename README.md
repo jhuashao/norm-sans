@@ -26,8 +26,6 @@ Thank you for considering contributing to Norm Sans, as an open-source typeface,
 
 If you are new to contributing to open-source projects, a great beginning guide to getting started is GitHub's own [Open Source Guide](https://opensource.guide/how-to-contribute/). 
 
-If you are new to type design and it's practices, please refer below to **Type Design Resources** located at the bottom of this README. 
-
 If you require any more assistance at all, please don't hesitate to open up an [issue](https://github.com/jhuashao/norm-typeface/issues) in this repository, or send a direct message to the repository's owner [@jhuashao](https://github.com/jhuashao)
 
 
