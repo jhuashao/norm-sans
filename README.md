@@ -28,7 +28,7 @@ Individual Font File Formats([?](https://creativemarket.com/blog/the-missing-gui
 
 Download only the TrueType(TTF) files of Norm Sans
 
-[Download only the OpenType(OTF) files of Norm Sans](https://github.com/jhuashao/norm-sans/fonts/OTF)
+[Download only the OpenType(OTF) files of Norm Sans](https://github.com/jhuashao/norm-sans/tree/master/fonts/OTF)
 
 Download only the Web Open Font Format(WOFF) files of Norm Sans
 
