@@ -14,7 +14,7 @@ Norm was created as a balancing act between monospace and neo-grotesque typeface
 
 ![Norm](images/2.jpg)
 
-# [Download Latest Version](https://github.com/jckfa/norm-sans/archive/master.zip)
+# [Download Latest Version](https://github.com/jhuashao/norm-sans/archive/master.zip)
 
 
 ### Open Source
