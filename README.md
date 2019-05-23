@@ -14,21 +14,24 @@ Norm was created as a balancing act between monospace and neo-grotesque typeface
 
 ![Norm](images/2.jpg)
 
+# [Download Latest Version](https://github.com/jhuashao/norm-sans/archive/master.zip)
+
+
 ### Open Source
 
 Norm Sans is ready to use right out of the box and works particularly well in display sizes, but can hold its own when set in body text. Modification, re-distribution, and commercial usage is made possible under the [SIL Open Font License, Version 1.1](https://opensource.org/licenses/OFL-1.1).
+
+### [Latest release](https://github.com/jhuashao/norm-sans/releases)
 
 ## Download Norm Sans
 
 ### Font Files
 
-### [⬇︎ Download the latest release](https://github.com/jhuashao/norm-sans/releases)
-
 Individual Font File Formats([?](https://creativemarket.com/blog/the-missing-guide-to-font-formats)):
 
 Download only the TrueType(TTF) files of Norm Sans
 
-Download only the OpenType(OTF) files of Norm Sans
+[Download only the OpenType(OTF) files of Norm Sans](https://github.com/jhuashao/norm-sans/tree/master/fonts/OTF)
 
 Download only the Web Open Font Format(WOFF) files of Norm Sans
 
