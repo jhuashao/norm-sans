@@ -22,7 +22,7 @@ Norm Sans is ready to use right out of the box and works particularly well in di
 
 ### Font Files
 
-[All Font Formats - Download Norm Sans]
+### [⬇︎ Download the latest release](https://github.com/jhuashao/norm-sans/releases)
 
 Individual Font File Formats([?](https://creativemarket.com/blog/the-missing-guide-to-font-formats)):
 
